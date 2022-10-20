@@ -1,2 +1,9 @@
 # github-final-project
-Script showcasing best practices introduced in GitHub with supporting documents for the open source projects including code of conduct, and contributing guidelines
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
